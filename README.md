@@ -30,35 +30,35 @@ A React app that lets users explore characters from the Star Wars universe by fe
 ## Skills & Technologies
 - **Frontend:**
   
-  ![alt text](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
-  ![alt text](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-  ![alt text](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)
-  ![alt text](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)
+  [![alt text](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)](#)
   
 - **Backend:**
 
-  ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![alt text](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  [![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 
 - **Database:**
 
-  ![alt text](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![alt text](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+  [![alt text](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 - **Tools & Platforms:** 
 
-  ![alt text](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-  ![alt text](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
-  ![alt text](https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell&logoColor=white)
-  ![alt text](https://custom-icon-badges.demolab.com/badge/vs%20code-000000?style=for-the-badge&logo=vsc&logoColor=white)
+  [![alt text](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![alt text](https://custom-icon-badges.demolab.com/badge/vs%20code-000000?style=for-the-badge&logo=vsc&logoColor=white)](#)
+  [![alt text](https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell&logoColor=white)](#)
  
 - **Methodologies:** Agile, Scrum
 
 
 ## Now learning
-  ![alt text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![alt text](https://custom-icon-badges.demolab.com/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-  ![alt text](https://custom-icon-badges.demolab.com/badge/azure-000000?style=for-the-badge&logo=msazure&logoColor=white)
+  [![alt text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+  [![alt text](https://custom-icon-badges.demolab.com/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
+  [![alt text](https://custom-icon-badges.demolab.com/badge/azure-000000?style=for-the-badge&logo=msazure&logoColor=white)](#)
 
 ---
 
