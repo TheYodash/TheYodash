@@ -90,5 +90,5 @@ Feel free to reach out or browse my repositories for more details on my projects
 
 ---
 
-> "Innovating to solve complex business challenges and drive sustainable growth."
+> "Innovating to solve complex challenges and drive growth."
 
