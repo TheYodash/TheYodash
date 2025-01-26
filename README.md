@@ -29,7 +29,7 @@ A React app that lets users explore characters from the Star Wars universe by fe
 ---
 
 ## Experience
-- **Tech Lead** – Led development for Taal Coach, overseeing both the frontend and backend design and implementation.
+- **Developer** – Led development for Taal Coach, overseeing both the frontend and backend design and implementation.
 - **Consultant** – Worked on multiple ERP system implementations, including SAP SuccessFactors, Dynamics 365, and QuickBooks.
 
 ---
