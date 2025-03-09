@@ -56,6 +56,7 @@ A React app that lets users explore characters from the Star Wars universe by fe
 
 
 ## Now learning
+  [![alt text](https://custom-icon-badges.demolab.com/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](#)
   [![alt text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
   [![alt text](https://custom-icon-badges.demolab.com/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
   [![alt text](https://custom-icon-badges.demolab.com/badge/azure-000000?style=for-the-badge&logo=msazure&logoColor=white)](#)
